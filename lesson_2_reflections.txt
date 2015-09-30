@@ -1,3 +1,11 @@
 What happens when you initialize a repository? Why do you need to do it?
+It allows Git to start tracking changes.
 
-It allows Git to start tracking changes
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area is a prepping section of what will be committed.
+It allows you to prepare a commit, but also keep working on the file.
+Those new changes to the file can later be added as a separate commit.
+It adds a little bit of logic to the workflow - you can add files to the staging area as you finish the updates.
+
+How can you use the staging area to make sure you have one commit per logical change?
+You can choose to add only the files (and at the stage) right after one logical change has been made. You can then move on to another file, or continue working on another update for that file, but the staging area will help keep the logical changes separate for when you want to commit them.
