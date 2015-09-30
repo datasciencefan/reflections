@@ -9,3 +9,7 @@ It adds a little bit of logic to the workflow - you can add files to the staging
 
 How can you use the staging area to make sure you have one commit per logical change?
 You can choose to add only the files (and at the stage) right after one logical change has been made. You can then move on to another file, or continue working on another update for that file, but the staging area will help keep the logical changes separate for when you want to commit them.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Basically when you begin to have two different versions of your code. Or when you want to try a different way of coding something.
+
