@@ -13,3 +13,11 @@ Used when you want to work on a version of the repo without changing the master 
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 You can compare it with your master branch and see if your local master branch is ahead, behind, in sync, or out of sync with the remote. Then you will know whether you need to commit, merge, or do nothing to make sure your master and remote are up to date. It also doesn't require internet in case you want to work offline for a bit.
+
+Useful Links about Git and Committing and making Sublime the default Windows text editor:
+
+How to save a commit message via default (VIM)
+http://stackoverflow.com/questions/13340329/how-to-save-a-git-commit-message-from-windows-cmd
+
+How to change the default editor to Sublime
+http://stackoverflow.com/questions/8951275/how-can-i-make-sublime-text-the-default-editor-for-git
