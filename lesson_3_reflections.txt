@@ -10,3 +10,6 @@ Forking is cloning a repository from one github account repository to another Gi
 Cloning is making a copy of a repository from A Github or local to local. No original repo info is transferred.
 Branching is to make a new version of an existing repo, usually to work one a certain feature, or make a different version of the repo (different method, game difficulty).
 Used when you want to work on a version of the repo without changing the master branch/other branches.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+You can compare it with your master branch and see if your local master branch is ahead, behind, in sync, or out of sync with the remote. Then you will know whether you need to commit, merge, or do nothing to make sure your master and remote are up to date. It also doesn't require internet in case you want to work offline for a bit.
