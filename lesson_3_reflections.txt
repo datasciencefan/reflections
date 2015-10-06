@@ -15,3 +15,11 @@ You can compare it with your master branch and see if your local master branch i
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Being able to track changes would be harder. Figuring out which code did what would be harder. For small projects, it might be faster, since pushing code, pullng code, and making pull requests from github might take some time. It mostly would be harder to work together long distance.
+
+Useful Links about Git and Committing and making Sublime the default Windows text editor:
+
+How to save a commit message via default (VIM)
+http://stackoverflow.com/questions/13340329/how-to-save-a-git-commit-message-from-windows-cmd
+
+How to change the default editor to Sublime
+http://stackoverflow.com/questions/8951275/how-can-i-make-sublime-text-the-default-editor-for-git
